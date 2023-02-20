@@ -1,0 +1,150 @@
+/*The body and the box*/
+
+body {
+    font-family: "Google Sans","Noto Sans Myanmar UI",arial,sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    font-weight: normal;
+}
+
+/*Image*/
+
+.googleImg {
+    height: 30px;
+}
+
+/*Next Button*/
+
+.blue-button {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 993px;
+    background-color: royalblue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/*Create Account Button*/
+
+.hover-button {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 700px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hover-button:hover {
+    background-color: lightblue;
+    color: white;
+}
+
+/*Forgot Email Button*/
+
+.hover-forgot {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 700px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hover-forgot:hover {
+    background-color: lightgreen;
+    color: white;
+}
+
+/*Learn More Button*/
+
+.hover-learn {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 700px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hover-learn:hover {
+    background-color: lightsalmon;
+    color: white;
+}
+
+/*Learn more Text*/
+
+.learnable{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 717px
+}
+
+/*Email Box*/
+
+.emailbox {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 810px;
+}
+
+/*The Footer on the Site*/
+
+.footer1 {
+    text-align: center;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 668px;
+}
+
+.footerH{
+    text-align: center;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 965px;
+}
+
+.footerP {
+    text-align: center;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 1016px;
+}
+
+.footerT {
+    text-align: center;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 1077px;
+}
