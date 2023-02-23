@@ -15,7 +15,7 @@ function Email() {
                 id="email-input"
                 value={email}
                 onChange={handleEmailChange}
-                placeholder="Email or Phone"
+                placeholder="Email"
             />
         </div>
     );
