@@ -11,7 +11,7 @@ function Footer(){
         </div>
 
         <div>
-            <h6 className="footerP">Privacy</h6>
+            <h6 className="footerP">Privacy Policy</h6>
         </div>
 
         <div>
